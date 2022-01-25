@@ -1,2 +1,6 @@
-# dis-store
-project for EECS E6897
+# Disaggregated Persist Memory
+
+Course project for EECS E6897 Distributed Storage System @ Columbia University.
+
+
+
